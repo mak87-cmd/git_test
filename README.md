@@ -1,0 +1,1 @@
+This is mak87 first git project!
